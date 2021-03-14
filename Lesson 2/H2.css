@@ -1,0 +1,15 @@
+
+
+.smile {
+
+
+}
+
+.father {
+    display: flex;
+    justify-content: center;}
+
+.father-2{
+    display: flex;
+    justify-content: flex-end;
+}
