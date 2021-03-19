@@ -1,0 +1,28 @@
+ .number-1{
+            background: gainsboro;
+            border: cornflowerblue solid 1px;
+            width: 300px;
+            height: 300px;
+        }
+ .number-2{
+     background: gainsboro;
+     border: cornflowerblue solid 1px;
+     width: 300px;
+     height: 200px;
+ }
+.number-3{
+   background: gainsboro;
+     border: cornflowerblue solid 1px;
+     width: 400px;
+     height: 200px;
+    margin-top: 20px;
+ }
+.text{
+    display: flex;
+
+
+}
+ .new{
+     width:500px ;
+
+ }
